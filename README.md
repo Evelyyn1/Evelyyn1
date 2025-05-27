@@ -1,5 +1,5 @@
 <!-- Encabezado principal -->
-<h1 align="center">¡Hola! 👋 Soy Evelyn Basilio, estudiante d</h1>
+<h1 align="center">¡Hola! 👋 Soy Evelyn Basilio</h1>
 <h3 align="center">🚀 Desarrolladora</h3>
 
 <p align="center">
