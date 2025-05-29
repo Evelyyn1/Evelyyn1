@@ -24,19 +24,4 @@
   <!-- Agrega más iconos según tus habilidades -->
 </p>
 
----
 
-### 📈 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados">
-</p>
-
----
-
-### 📫 Contáctame
-<p>
-  <a href="mailto:tu_email@example.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/tuusuario">🌐 LinkedIn</a> •
-  <a href="https://github.com/TU_USUARIO">💻 GitHub</a>
-</p>
